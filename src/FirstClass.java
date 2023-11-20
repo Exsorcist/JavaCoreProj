@@ -4,5 +4,6 @@ public class FirstClass {
         int b = 4;
 
         System.out.println("Ну, начнем!");
+        System.out.println(b);
     }
 }
